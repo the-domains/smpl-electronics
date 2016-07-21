@@ -1,0 +1,28 @@
+name: SMPL. ELECTRONICS
+favicon: null
+layout_spectrum: 0.6024652093183249
+typography_spectrum: 0.4123222299385816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.07428157282993197
+  lightness: 0.3779710722155869
+  saturation: 0.6429438919294626
+  rhythmicContrast: 0.11524442886002362
+purpose: []
